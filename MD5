@@ -1,0 +1,12 @@
+3ccdf20cf9f16e1e534b3dc51bed6834 *DESCRIPTION
+68e723ce8b3651a0b1e1d2e2f41dfdf9 *LICENSE
+bd2d8f75eae7c31a972505777d14fd4d *NAMESPACE
+afc62c45ba3eba345abacdc9d5371d2b *R/SeasEpi_Par_Est.R
+01a9891e477e13b05b45e550363464a3 *R/SeasEpi_Sim_Par_Est.R
+0a3ad965aa94d1384864bf3e5a92db74 *data/adjacency_matrix.rda
+23550309cf72d292e7ec36871e29abe0 *data/data.rda
+89e536ccb2ed16d224b74fb6be497ff8 *man/SeasEpi_Par_Est.Rd
+105548d8c8dc0a147cc3433605c78bf5 *man/SeasEpi_Sim_Par_Est.Rd
+fc90789735f2b29176840b05d3976096 *man/data.Rd
+71355e2a93cb8791f13f6c12d352be16 *tests/testthat/test-SeasEpi_Par_Est.R
+594216fd2e28b3b90b04670ff9ad7e32 *tests/testthat/test-SeasEpi_Sim_Par_Est.R
