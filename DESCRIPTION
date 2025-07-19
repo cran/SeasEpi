@@ -1,6 +1,6 @@
 Package: SeasEpi
 Title: Spatiotemporal Modeling of Seasonal Infectious Disease
-Version: 0.0.1
+Version: 0.0.2
 Authors@R: c(person(given = "Amin", family = "Abed", role = c("aut","cre","cph"), email = "abeda@myumanitoba.ca", comment = c(ORCID = "0000-0002-7381-4721")), person(given = "Mahmoud", family = "Torabi", role = "ths"), person(given = "Zeinab", family = "Mashreghi", role = "ths"))
 Description: Spatiotemporal individual-level model of seasonal infectious disease transmission within the Susceptible-Exposed-Infectious-Recovered-Susceptible (SEIRS) framework are applied to model seasonal infectious disease transmission. This package employs a likelihood based Monte Carlo Expectation Conditional Maximization (MCECM) algorithm for estimating model parameters. In addition to model fitting and parameter estimation, the package offers functions for calculating AIC using real pandemic data and conducting simulation studies customized to user-specified model configurations.
 License: MIT + file LICENSE
@@ -11,7 +11,7 @@ RoxygenNote: 7.3.2
 Suggests: testthat (>= 3.0.0)
 Config/testthat/edition: 3
 NeedsCompilation: no
-Packaged: 2025-06-04 17:44:22 UTC; aminabed
+Packaged: 2025-07-19 17:51:40 UTC; aminabed
 Author: Amin Abed [aut, cre, cph] (ORCID:
     <https://orcid.org/0000-0002-7381-4721>),
   Mahmoud Torabi [ths],
@@ -19,4 +19,4 @@ Author: Amin Abed [aut, cre, cph] (ORCID:
 Maintainer: Amin Abed <abeda@myumanitoba.ca>
 Depends: R (>= 3.5.0)
 Repository: CRAN
-Date/Publication: 2025-06-06 13:00:17 UTC
+Date/Publication: 2025-07-19 18:10:02 UTC
